@@ -5,7 +5,9 @@ tetris, but it's 100% in the terminal <br>
 ## requirements 
 python 3.11 or higher.
 windows only. :( yes, i have a skill issue, and no, i haven't learned since [walachat](https://github.com/sirbread/walachat) <br>
-(the program interacts with mscvrt will not work on any other OS, the ANSI code parts are still very much useable and applicable for use on other terminals. someone please make a linux patch :pray:)
+<br>
+(the ANSI code parts are still very much useable and applicable for use on other terminals.) <br>
+<br>
 recommended to run windows 10 or below, since the new powershell update in 11 break ui alignment. <br>
 well, unless you know how to revert to console window host.
 
